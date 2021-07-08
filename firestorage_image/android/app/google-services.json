@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410763730266",
+    "project_id": "fir-storage-image-92837",
+    "storage_bucket": "fir-storage-image-92837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410763730266:android:97143414f1b4ffbda32763",
+        "android_client_info": {
+          "package_name": "com.example.firestorage_image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410763730266-9hg0it45simvlsm13ijq11gc9jk3aokk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlIyGwKNkXITyS419fcqMCwE5gyhdHBrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410763730266-9hg0it45simvlsm13ijq11gc9jk3aokk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29780515469",
+    "project_id": "image2-6f906",
+    "storage_bucket": "image2-6f906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29780515469:android:592a3daa0535ffe7aba0c4",
+        "android_client_info": {
+          "package_name": "com.example.firestorage_image_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29780515469-mhn90d801gbl2p1bfa1oliovd60824fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_vvy8nV0rTng26NzfKDtFsmM5hyhItg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29780515469-mhn90d801gbl2p1bfa1oliovd60824fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
