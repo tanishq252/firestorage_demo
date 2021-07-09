@@ -36,7 +36,7 @@ class H extends StatefulWidget {
 }
 
 class _HomeState extends State<H> {
-// change name to ensure working
+// change name of the collectionreference to ensure proper working
 
   final CollectionReference users = FirebaseFirestore.instance.collection('Uu');
 
@@ -61,13 +61,18 @@ class _HomeState extends State<H> {
             ),
           ),
           body: ListView(
+            padding: EdgeInsets.fromLTRB(0, 20, 0, 0),
             children: [
               Container(
+                padding: EdgeInsets.fromLTRB(0, 20, 0, 0),
                 height: 330,
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.only(
-                        bottomLeft: Radius.circular(120.0),
-                        bottomRight: Radius.circular(120.0)),
+                      bottomLeft: Radius.circular(120.0),
+                      bottomRight: Radius.circular(120.0),
+                      topLeft: Radius.circular(120.0),
+                      topRight: Radius.circular(120.0),
+                    ),
                     gradient: LinearGradient(
                         colors: [Colors.white, Colors.greenAccent],
                         begin: Alignment.topLeft,
